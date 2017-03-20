@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Text to Speech
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <ion-item>
+    <ion-label stacked>Read</ion-label>
+    <ion-textarea rows="10" [(ngModel)]="text"></ion-textarea>
+  </ion-item>
+
+  <button color="secondary" ion-button (click)="read()">Read Text</button>
+</ion-content>
