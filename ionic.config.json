@@ -1,5 +1,12 @@
 {
+<<<<<<< HEAD
   "name": "tts",
   "app_id": "",
   "type": "ionic-angular"
+=======
+  "name": "textToSpeech",
+  "app_id": "",
+  "v2": true,
+  "typescript": true
+>>>>>>> 87f9e3241ddcb6ef40cd63ca65315b78083d64b5
 }

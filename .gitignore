@@ -19,8 +19,11 @@ npm-debug.log*
 coverage/
 dist/
 node_modules/
+<<<<<<< HEAD
 plugins/
 platforms/
+=======
+>>>>>>> 87f9e3241ddcb6ef40cd63ca65315b78083d64b5
 tmp/
 temp/
 hooks/

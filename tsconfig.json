@@ -11,7 +11,11 @@
     "module": "es2015",
     "moduleResolution": "node",
     "sourceMap": true,
+<<<<<<< HEAD
     "target": "es6"
+=======
+    "target": "es5"
+>>>>>>> 87f9e3241ddcb6ef40cd63ca65315b78083d64b5
   },
   "include": [
     "src/**/*.ts"
